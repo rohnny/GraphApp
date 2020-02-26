@@ -2,7 +2,7 @@ package com.github.rohnny.graph.web;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.github.rohnny.graph.repo.entity.RootEntity;
-import com.github.rohnny.graph.repo.entity.RootRepository;
+import com.github.rohnny.graph.repo.RootRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.web.bind.annotation.GetMapping;
